@@ -2,5 +2,5 @@
 
 ## Basic examples for learning Rust
 
-1. Excercise `variables`
-2. For building run `$ cargo run` insidhe the `variables` project
+1. Here are many examples that are helpful to understand the basics.
+2. For building run `$ cargo run` inside the project directory.
